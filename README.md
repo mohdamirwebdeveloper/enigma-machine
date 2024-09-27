@@ -1,6 +1,6 @@
 # Enigma Machine
 
-![Enigma Machine](/demo.png) <!-- You can add an image related to the project if available -->
+![Enigma Machine](demo) <!-- You can add an image related to the project if available -->
 
 ## Overview
 
